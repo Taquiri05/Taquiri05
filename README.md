@@ -43,7 +43,7 @@ Python, Flask, React, desarrollo web y arquitectura de software.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Taquiri05&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taquiri05&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Taquiri05&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="left">
@@ -53,3 +53,4 @@ Python, Flask, React, desarrollo web y arquitectura de software.
 ---
 
 <p align="center"><i>Gracias por visitar mi perfil ✨</i></p>
+
