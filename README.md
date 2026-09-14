@@ -52,5 +52,5 @@ Python, Flask, React, desarrollo web y arquitectura de software.
 
 ---
 
-<p align="center"><i>Gracias por visitar mi perfil ✨</i></p>
+
 
