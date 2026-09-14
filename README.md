@@ -38,7 +38,20 @@ Python, Flask, React, desarrollo web y arquitectura de software.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+### 📊 Estadísticas
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taquiri05&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Taquiri05&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taquiri05&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Gracias por visitar mi perfil ✨</i></p>
 
 
 
